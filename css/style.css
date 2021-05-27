@@ -1,0 +1,747 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header_top{
+
+width: 60%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 20px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+    
+width: 60%;
+    
+cursor: pointer;
+}
+.navigation{
+    
+width: 60%;
+    
+float: left;
+    
+margin-top: 15px;
+    
+font-family: 'Montserrat', sans-serif;
+    
+cursor: pointer;
+}
+
+nav ul{
+    
+width: 50%;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 20px;
+    
+list-style: none;
+    
+font-size: 18px;
+    
+text-transform: capitalize;
+}
+.purchase-button{
+
+margin-top: 7px;
+
+width: 18%;
+
+float: right;
+
+background-color: #FF6162;
+
+height: 44px;
+
+text-align: center;
+
+padding-top: 8px;
+
+border-radius: 6px;
+
+margin-top: 4px;
+
+cursor: pointer;
+}
+.purchase-button p{
+    
+font-size: 14px;
+    
+color: white;
+    
+text-transform: capitalize;
+    
+padding: 8px;
+    
+font-weight: 600;
+    
+font-family: 'Montserrat', sans-serif;
+}
+.middle_content{
+
+width: 60%;
+
+height: 500px;
+
+margin: auto;
+
+margin-top: 200px;
+
+overflow: hidden;
+}
+.left_content{
+
+float: left;
+
+width: 45%;
+}
+.left_content h1{
+    
+font-size: 45px;
+    
+text-transform: capitalize;
+    
+font-family: 'Montserrat';
+    
+line-height: 55px;
+    
+margin-bottom: 17px;
+    
+color: #292640;
+}
+.left_content p{
+    
+font-size: 20px;
+    
+text-align: justify;
+}
+.left_content img{
+    
+margin-top: 15px;
+}
+.right_content{
+
+float: right;
+
+width: 45%;
+}
+.right_content img{
+    
+width: 100%;
+    
+cursor: pointer;
+}
+
+.demo_text{
+
+width: 30%;
+
+margin: auto;
+
+text-align: center;
+
+margin-top: 100px;
+}
+.demo_text h1{
+
+font-size: 34px;
+
+font-family: 'Montserrat';
+
+text-transform: capitalize;
+
+color: #292640;
+}
+.demo_text p{
+
+font-size: 20px;
+
+font-style: italic;
+}
+.stuning_images{
+width: 80%;
+margin: auto;
+padding-top: 35px;
+overflow: hidden;
+padding-bottom: 100px;}
+.classic{
+
+width: 24%;
+
+float: left;
+
+text-align: center;
+
+text-transform: capitalize;
+
+margin-left: 24px;
+}
+.classic img{
+    
+width: 100%;
+}
+.classic h3{
+    
+color: gray;
+}
+.shop{
+
+width: 24%;
+
+float: left;
+
+text-align: center;
+
+text-transform: capitalize;
+}
+.shop img{
+    
+width: 100%;
+}
+.shop h3{
+    
+color: gray;
+}
+.darkmode{
+
+width: 24%;
+
+float: left;
+
+text-align: center;
+
+text-transform: capitalize;
+}
+.darkmode img{
+    
+width: 100%;
+}
+.darkmode h3{
+    
+color: gray;
+}
+.minimal{
+
+width: 24%;
+
+float: right;
+
+text-align: center;
+
+text-transform: capitalize;
+}
+.minimal img{
+
+width: 100%;
+}
+.minimal h3{
+
+color: gray;
+}
+
+.vl{
+border-left: 2px solid rgb(146 143 143);
+height: 80px;
+margin-left: 50%;
+}
+.feature_center{
+
+width: 20%;
+
+margin: auto;
+
+padding-top: 100px;
+}
+.feature_center h1{
+
+text-align: center;
+
+text-transform: capitalize;
+
+padding-bottom: 15px;
+}
+.feature_center p{
+
+text-align: center;
+
+font-style: italic;
+}
+.feature_image_one{
+
+width: 60%;
+
+margin: auto;
+
+height: 300px;
+
+padding-top: 50px;
+}
+.customize{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 17px;
+
+float: left;
+}
+.customize img{
+    
+width: 80px;
+}
+.customize h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.customize p{
+    
+line-height: 25px;
+    
+font-size: 20px;
+}
+
+.demo{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 15px;
+
+float: left;
+
+margin-left: 45px;
+
+}
+.demo img{
+        
+width: 80px;
+    }
+.demo h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.demo p{
+        
+line-height: 25px;
+        
+font-size: 20px;
+}
+.membership{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 15px;
+
+float: right;
+
+}
+.membership img{
+            
+width: 80px;
+        }
+.membership h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.membership p{
+            
+line-height: 25px;
+            
+font-size: 20px;
+}
+.feature_image_one{
+
+width: 60%;
+
+margin: auto;
+
+height: 300px;
+
+padding-top: 50px;
+}
+.customize{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 17px;
+
+float: left;
+}
+.customize img{
+    
+width: 80px;
+}
+.customize h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.customize p{
+    
+line-height: 25px;
+    
+font-size: 20px;
+}
+
+.demo{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 15px;
+
+float: left;
+
+margin-left: 45px;
+
+}
+.demo img{
+        
+width: 80px;
+}
+.demo h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.demo p{
+        
+line-height: 25px;
+        
+font-size: 20px;
+}
+.membership{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 15px;
+
+float: right;
+
+}
+.membership img{
+            
+width: 80px;
+}
+.membership h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.membership p{
+            
+line-height: 25px;
+            
+font-size: 20px;
+}
+.feature_image_one{
+
+width: 60%;
+
+margin: auto;
+
+height: 300px;
+
+padding-top: 50px;
+}
+.customize{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 17px;
+
+float: left;
+}
+.customize img{
+    
+width: 80px;
+}
+.customize h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.customize p{
+    
+line-height: 25px;
+    
+font-size: 20px;
+}
+
+.demo{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 15px;
+
+float: left;
+
+margin-left: 45px;
+
+}
+.demo img{
+        
+width: 80px;
+}
+.demo h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.demo p{
+        
+line-height: 25px;
+        
+font-size: 20px;
+}
+
+.membership{
+
+width: 28%;
+
+text-align: center;
+
+background-color: #F3F3F3;
+
+height: 250px;
+
+padding: 15px;
+
+float: right;
+
+}
+.membership img{
+            
+width: 80px;
+}
+.membership h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.membership p{
+            
+line-height: 25px;
+            
+font-size: 20px;
+}
+
+.feature_image_two{
+
+width: 60%;
+
+margin: auto;
+
+height: 300px;
+
+padding-top: 27px;
+
+overflow: hidden;
+}
+.products{
+            
+width: 28%;
+            
+text-align: center;
+            
+background-color: #F3F3F3;
+            
+height: 250px;
+            
+padding: 17px;
+            
+float: left;
+}
+.products img{
+                
+width: 80px;
+}
+.products h2{
+text-transform: capitalize;
+padding-bottom: 5px;font-size: 23px;}
+.products p{
+                
+line-height: 25px;
+                
+font-size: 20px;
+}
+            
+.like{
+            
+width: 28%;
+            
+text-align: center;
+            
+background-color: #F3F3F3;
+            
+height: 250px;
+            
+padding: 15px;
+            
+float: left;
+            
+margin-left: 45px;
+            
+}
+.like img{
+                    
+width: 80px;
+}
+.like h2{
+text-transform: capitalize;
+padding-bottom: 5px;}
+.like p{
+                    
+line-height: 25px;
+                    
+font-size: 20px;
+}
+      
+.option{
+            
+width: 28%;
+            
+text-align: center;
+            
+background-color: #F3F3F3;
+            
+height: 250px;
+            
+padding: 11px;
+            
+float: left;
+            
+margin-left: 43px;
+            
+}
+.option img{
+                            
+width: 80px;
+}
+.option h2{
+text-transform: capitalize;
+padding-bottom: 5px;
+font-size: 19px;
+}
+.option p{
+                            
+line-height: 25px;
+                            
+font-size: 20px;
+}
+.bottom{height: 451px;background-color: #292640;text-align: center;margin-top: 100px;}
+.bottom h1{
+
+text-align: center;
+
+color: white;
+
+text-transform: capitalize;
+
+padding-top: 60px;
+
+padding-bottom: 20px;
+
+font-size: 46px;
+}
+.purchase-bottom{
+
+width: 10%;
+
+background-color: #FF6162;
+
+height: 44px;
+
+text-align: center;
+
+padding-top: 11px;
+
+border-radius: 6px;
+
+margin-top: 8px;
+
+cursor: pointer;
+
+margin-left: 45%;
+}
+    .purchase-bottom p{
+        
+font-size: 14px;
+        
+color: white;
+        
+text-transform: capitalize;
+        
+padding: 8px;
+        
+font-weight: 600;
+        
+font-family: 'Montserrat', sans-serif;
+        
+cursor: pointer;
+}
+
+.theme{
+
+text-align: center;
+
+padding-top: 20px;
+}
+.theme img{
+    
+width: 150px;
+}
+.up_arrow{
+
+text-align: right;
+}
+.up_arrow img{
+    
+width: 75px;
+    
+margin-right: 25px;
+    
+cursor: pointer;
+}
